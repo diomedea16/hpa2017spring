@@ -1,2 +1,3 @@
-# Introduction
+# はじめに
 
+## [ファイルの履歴を管理する（Git）](git.md)
