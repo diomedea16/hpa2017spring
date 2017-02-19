@@ -84,7 +84,8 @@ spline 0,200 200,0 0,-200 c↩︎
 ## 移動・コピー
 
 　`COPY`や`MOVE`といったコマンドでは対象のオブジェクトを選択する必要があります。選択操作には`SELECT`コマンドと同じオプションが使えるようです。詳しくは公式ドキュメントを参照してください。
-https://knowledge.autodesk.com/ja/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2015/JPN/AutoCAD-Core/files/GUID-0DD5DA73-9DC5-4424-8FED-7BBE3BE52A4D-htm.html
+
+[https://knowledge.autodesk.com/ja/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2015/JPN/AutoCAD-Core/files/GUID-0DD5DA73-9DC5-4424-8FED-7BBE3BE52A4D-htm.html](https://knowledge.autodesk.com/ja/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2015/JPN/AutoCAD-Core/files/GUID-0DD5DA73-9DC5-4424-8FED-7BBE3BE52A4D-htm.html)
 
 　下の例では先ほど描いたスプラインをコピー・移動しています。`<Space>`が2つ並んでいるところまでがオブジェクト選択部分で、そのあと移動元の基点・移動先の基点を指定しています。`COPY`はコピー先を複数指定できるコマンドなので最後に`Exit`で閉じてあげましょう。
 
